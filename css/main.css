@@ -222,8 +222,8 @@ input.input100 {
 .m1-txt1 {
   font-family: Barlow-Bold;
   font-size: 25px;
-  color: #999999;
   line-height: 1.2;
+  color: #fff;
 }
 
 
@@ -294,6 +294,7 @@ input.input100 {
 [ Border ]*/
 .bor1 {
   border-radius: 18px;
+  background-color:rgb(46, 63, 88);
 }
 
 .bor2 {

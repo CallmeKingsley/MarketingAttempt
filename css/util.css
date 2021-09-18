@@ -2309,7 +2309,7 @@ iframe {border: none;}
 .lh-3-0 {line-height: 3.0;}
 
 /* ------------------------------------ */
-.txt-center {text-align: center;}
+.txt-center {text-align: center; color: #999999;}
 .txt-left {text-align: left;}
 .txt-right {text-align: right;}
 .txt-middle {vertical-align: middle;}
